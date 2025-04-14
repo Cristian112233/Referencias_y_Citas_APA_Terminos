@@ -4,5 +4,5 @@ title: Inicio
 ---
 # ¡Bienvenido!  
 Enlaces importantes:  
-- [Política de Privacidad](https://github.com/Cristian112233/Referencias_y_Citas_APA_Terminos/blob/main/privacy-policy.md)  
-- [Términos de Servicio](https://github.com/Cristian112233/Referencias_y_Citas_APA_Terminos/blob/main/terms-of-service.md)
+- [Política de Privacidad](/Referencias_y_Citas_APA_Terminos/privacy-policy)  
+- [Términos de Servicio](/Referencias_y_Citas_APA_Terminos/terms-of-service)
