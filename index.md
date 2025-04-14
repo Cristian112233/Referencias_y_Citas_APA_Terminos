@@ -1,5 +1,8 @@
 ---
-layout: home
+layout: default
 title: Inicio
 ---
-¡Bienvenido a la documentación legal de la app!
+# ¡Bienvenido!  
+Enlaces importantes:  
+- [Política de Privacidad](/privacy-policy)  
+- [Términos de Servicio](/terms-of-service)
